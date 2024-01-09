@@ -1,0 +1,6 @@
+snoop.mp4 filter=lfs diff=lfs merge=lfs -text
+mjb.mp4 filter=lfs diff=lfs merge=lfs -text
+dre.mp4 filter=lfs diff=lfs merge=lfs -text
+kl.mp4 filter=lfs diff=lfs merge=lfs -text
+eminem.mp4 filter=lfs diff=lfs merge=lfs -text
+halftime.mp4 filter=lfs diff=lfs merge=lfs -text

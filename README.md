@@ -1,6 +1,6 @@
 # 🎧 HipHopTribute
 
-During the last week of the bootcamp Code For All, we were cahllenged with a 24-hour coding challenge, or Hackathon, to be performed in group.
+During the last week of the bootcamp Code For All, we were challenged with a 24-hour coding challenge, or Hackathon, to be performed in group.
 
 ## 🏆 And we won, by the way 🏆
 

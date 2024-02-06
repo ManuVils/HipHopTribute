@@ -17,7 +17,9 @@ If you've seen the Halftime Show and want to know more, this is the place to be.
 
 ## Media
 
-<img src="Resources/website.mov">
+
+https://github.com/ManuVils/HipHopTribute/assets/150291524/64b82690-a716-4b30-b939-9af5d6eeef7b
+
 <img src="Resources/homepage.jpeg">
 <img src="Resources/goats.jpeg">
 <img src="Resources/battle.jpeg">

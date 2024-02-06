@@ -16,14 +16,10 @@ Ok but what to do with this? We had no limits to what we could do, as long as it
 If you've seen the Halftime Show and want to know more, this is the place to be. 
 <br>
 <br>
-<br>
 
 ## Media
 
-
 https://github.com/ManuVils/HipHopTribute/assets/150291524/64b82690-a716-4b30-b939-9af5d6eeef7b
-
-
 
 <p align="center">
     <img src="Resources/homepage.jpeg">

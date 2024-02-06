@@ -15,8 +15,9 @@ Ok but what to do with this? We had no limits to what we could do, as long as it
 
 If you've seen the Halftime Show and want to know more, this is the place to be. 
 
-### Media
+## Media
 
+<img src="Resources/website.mov">
 <img src="Resources/homepage.jpeg">
 <img src="Resources/goats.jpeg">
 <img src="Resources/battle.jpeg">

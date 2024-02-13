@@ -4,8 +4,6 @@ During the last week of the bootcamp Code For All, we were challenged with a 24-
 
 As the bootcamp was reaching it's end, this was the perfect oportunity to put into practice the skills I've learned. 
 
-<br>
-
 ## 🏆 And we won, by the way 🏆
 
 The theme? The Superbowl Halftime Show. Our halftime? The 2022 one, with Dr. Dre, Snoop Dogg, Eminem, Mary J. Blidge and Kendrick Lamar. 

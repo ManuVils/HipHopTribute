@@ -2,9 +2,9 @@
 
 During the last week of the bootcamp Code For All, we were challenged with a 24-hour coding challenge, or Hackathon, to be performed in group.
 
-<br>
-
 As the bootcamp was reaching it's end, this was the perfect oportunity to put into practice the skills I've learned. 
+
+<br>
 
 ## 🏆 And we won, by the way 🏆
 
